@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   - [VPN Setup in Virtual Machine ](https://github.com/JonathandelcastilloIT/Setting-UP-A-VPN)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/maric-a11y/azure-network-protocols)
 - <b>Active Directory</b>
-  -   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/maric-a11y/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/maric-a11y/configure-ad)
 
 
 <h2>🤳Connect with me:</h2>
