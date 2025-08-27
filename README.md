@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   - [osTicket: Post-Installation Configuration](https://github.com/maric-a11y/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/maric-a11y/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring A Virtual Machine and remote access ](https://github.com/JonathandelcastilloIT/configure-vm)
-  - [VPN Setup in Virtual Machine ](https://github.com/JonathandelcastilloIT/Setting-UP-A-VPN)
+  - [Configuring A Virtual Machine and remote access ](https://github.com/maric-a11y/configure-vm-edit-this-)
+  - [VPN Setup in Virtual Machine ](https://github.com/maric-a11y/setting-up-a-VPN-Edit-This-/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/maric-a11y/azure-network-protocols)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/maric-a11y/configure-ad)
