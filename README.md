@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   - [osTicket: Ticket Lifecycle Examples](https://github.com/maric-a11y/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/maric-a11y/configure-ad)
+  - [Group Policy & Managing Accounts] 
 
 
 <h2>🤳Connect with me:</h2>
