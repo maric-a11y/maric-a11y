@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/maric-a11y/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/maric-a11y/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/maric-a11y/ticket-lifecycle)
+
 - <b>Microsoft Azure</b>
   - [Configuring A Virtual Machine and remote access ](https://github.com/maric-a11y/configure-vm-edit-this-)
   - [VPN Setup in Virtual Machine ](https://github.com/maric-a11y/setting-up-a-VPN-Edit-This-/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/maric-a11y/azure-network-protocols)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/maric-a11y/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/maric-a11y/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/maric-a11y/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/maric-a11y/configure-ad)
 
