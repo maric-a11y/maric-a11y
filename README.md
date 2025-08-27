@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Mari, an <a href="www.linkedin.com/in/maricarmen-rivera-03a971a9">IT Professional</a>☺</h1>
+<h1>Hi, I'm Mari, an <a href="https://www.linkedin.com/in/maricarmen-rivera-03a971a9">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
